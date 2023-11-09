@@ -11,3 +11,6 @@
 [] Aumentar a altura do main pra 100vh - altura do header
 [] Diminuir a largura dos textos de todas as páginas
 [] Testar alinhar os textos no centro
+
+
+.
