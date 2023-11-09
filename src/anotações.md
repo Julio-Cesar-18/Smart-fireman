@@ -13,4 +13,4 @@
 [] Testar alinhar os textos no centro
 
 
-.
+..
